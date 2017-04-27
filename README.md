@@ -1,6 +1,6 @@
 # npmdoc-cssstats
 
-#### api documentation for  [cssstats (v3.0.0)](https://github.com/cssstats/cssstats-core#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cssstats.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cssstats) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cssstats.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cssstats)
+#### basic api documentation for  [cssstats (v3.0.0)](https://github.com/cssstats/cssstats-core#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cssstats.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cssstats) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cssstats.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cssstats)
 
 #### High-level stats for stylesheets
 
@@ -92,7 +92,8 @@
             "it"
         ]
     },
-    "version": "3.0.0"
+    "version": "3.0.0",
+    "bin": {}
 }
 ```
 
